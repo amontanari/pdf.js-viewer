@@ -1,5 +1,5 @@
 {
-  "name": "pdf.js-dist",
+  "name": "pdf.js-dist-windowPrint",
   "version": "0.1.0",
   "description": "Compiled version of pdf.js",
   "main": "pdf.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/legalthings/pdf.js-dist.git"
+    "url": "git+https://github.com/amontanari/pdf.js-dist.git"
   },
   "keywords": [
     "pdf"
@@ -16,9 +16,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/legalthings/pdf.js-dist/issues"
+    "url": "https://github.com/amontanri/pdf.js-dist/issues"
   },
-  "homepage": "https://github.com/legalthings/pdf.js-dist#readme",
+  "homepage": "https://github.com/amontanri/pdf.js-dist#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "css-prefix": "git+https://github.com/moesjarraf/css-prefix.git#0.0.2+moesjarraf.3"
