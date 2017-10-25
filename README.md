@@ -7,7 +7,7 @@ This is a build version of the PDF.js, including the viewer.
 
 ## Installation
 
-    bower install pdf.js-viewer
+    in progress - bower install pdf.js-viewerWindowPrint
 
 ## Usage
 
