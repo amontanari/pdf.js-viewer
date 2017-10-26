@@ -1,5 +1,5 @@
 {
-  "name": "pdf.js-viewer",
+  "name": "pdf.js-viewerWindowPrint",
   "main": "pdf.js",
   "homepage": "http://github.com/amontanari/pdf.js-viewer",
   "authors": [
