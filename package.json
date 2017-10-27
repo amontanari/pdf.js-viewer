@@ -16,9 +16,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/amontanri/pdf.js-dist/issues"
+    "url": "https://github.com/amontanari/pdf.js-dist/issues"
   },
-  "homepage": "https://github.com/amontanri/pdf.js-dist#readme",
+  "homepage": "https://github.com/amontanari/pdf.js-dist#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "css-prefix": "git+https://github.com/moesjarraf/css-prefix.git#0.0.2+moesjarraf.3"
