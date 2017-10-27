@@ -1,24 +1,23 @@
 {
-  "name": "pdf.js-viewerWindowPrint",
-  "main": "pdf.js",
-  "homepage": "http://github.com/amontanari/pdf.js-viewer",
-  "authors": [
-    "LegalThings <info@legalthings.net>",
-    "Arnold Daniels <arnold@jasny.net>",
-    "Alberto Montanari <alberto.montanari@gmail.com>"
-  ],
-  "description": "pdf.js build with viewer, change window.print",
-  "keywords": [
-    "pdf"
-  ],
-  "license": "Apache2",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "spec",
-    "**/*.spec.js"
-  ],
-  "version":"1.6.211.3"
+    "name": "pdf.js-viewer",
+    "main": "pdf.js",
+    "homepage": "http://github.com/amontanari/pdf.js-viewer",
+    "authors": [
+        "LegalThings <info@legalthings.net>",
+        "Arnold Daniels <arnold@jasny.net>",
+        "Alberto Montanari <alberto.montanari@gmail.com>"
+    ],
+    "description": "pdf.js build with viewer, change window.print",
+    "keywords": [
+        "pdf"
+    ],
+    "license": "Apache2",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "spec",
+        "**/*.spec.js"
+    ],
+    "version": "1.6.211.3"
 }
-
