@@ -13799,6 +13799,7 @@ var PDFBug = (function PDFBugClosure() {
                                 var js = javaScript[i];
                                 if (js && regex.test(js)) {
                                     setTimeout(function () {
+                                    	//change for conflict --
                                         window.printPDF();
                                     });
                                     return;
